@@ -1,1 +1,3 @@
-Meu nome é Andrey, sou estudante do 9 De Julho, tenho 16 anos.
+- Meu nome é **Andrey Felipe Valentim Da Silva**
+- sou estudante do E.E. **9 DE JULHO**
+- Estou fazendo o curso do **Alura** da **1 série** do _Ensino Médio_.
